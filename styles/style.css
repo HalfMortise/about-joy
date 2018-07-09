@@ -1,0 +1,29 @@
+body {
+	background-image: url("https://bootcamp-coders.cnm.edu/~ecorsi/about-joy/images/mtn.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+li {
+	list-style: none;
+}
+
+.html-list{
+	list-style: square;
+	width: 2000px;
+	font-size: 14px;
+}
+
+.center {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+
+.center-list {
+	width: 10%;
+	list-style-position: inside;
+	text-align: left;
+	display: inline-block;
+	font-size: 12px;
+}
