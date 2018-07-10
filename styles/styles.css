@@ -1,0 +1,19 @@
+body {
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/cd/Jesenice%2C_Slovenia_%28Unsplash%29.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.center-list{
+	list-style: lower-alpha;
+	list-style-type: square;
+	color: red;
+}
+
+.linkedin{
+	color: red;
+}
+
+.goodbye {
+	color: red;
+}
